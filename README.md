@@ -1,2 +1,6 @@
-# simple-jobs
-This is a test front end
+# Getting Started 
+
+### `npm install`
+
+### `npm start`
+
